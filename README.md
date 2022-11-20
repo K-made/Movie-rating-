@@ -56,7 +56,5 @@ Presentation:
 
 Presentation can be found from here in .pdf format :
 
-
-
-
+https://github.com/K-made/phase1/blob/main/bfsdf.pdf
 
