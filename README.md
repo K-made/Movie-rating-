@@ -40,6 +40,8 @@ Before analyzing the data had to be processed and cleaned. The data was checked 
 ## Repository Guide
 CSV Files:
 The raw data files which obtained by DataDriven can be found ;
+https://github.com/K-made/phase1/blob/main/bom.movie_gross.csv
+Notebooks:
 
 
 
