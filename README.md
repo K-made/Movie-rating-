@@ -37,7 +37,9 @@ Before analyzing the data had to be processed and cleaned. The data was checked 
 * Action, thriller genres are highly watched movies 
 * Biography, Drama, Music is the most selling genre internationally
 
-
+## Repository Guide
+CSV Files:
+The raw data files which obtained by DataDriven can be found ;
 
 
 
