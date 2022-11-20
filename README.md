@@ -52,6 +52,11 @@ https://github.com/K-made/phase1/blob/main/im.db.zip
 
 https://github.com/K-made/phase1/blob/main/student.ipynb
 
+Presentation:
+
+Presentation can be found from here in .pdf format :
+
+
 
 
 
