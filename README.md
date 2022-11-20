@@ -48,7 +48,7 @@ The raw data files which obtained by DataDriven can be found ;
 
 https://github.com/K-made/phase1/blob/main/im.db.zip
 
-* Notebooks:
+Notebooks:
 
 https://github.com/K-made/phase1/blob/main/student.ipynb
 
