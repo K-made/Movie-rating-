@@ -29,6 +29,14 @@ Microsoft sees all the big companies creating original video content and they wa
 ## Data Preparation
 Before analyzing the data had to be processed and cleaned. The data was checked for null values and also duplicates. This data had a few columns tha had missing or null valuesand we had to delete the rows to preserve the important information. Some Exploratory Data Analysis(EDA) was done to the data to determine if there was any patterns in the data. This data had one categorical column, meaning that these columns had to be converted to numeric features in order to be used in evaluation. The categorical columns was then changed from object to float. This data was then ready for evaluation.
 
+### genres number of votes above 8.0 ratings
+![genretotal](https://user-images.githubusercontent.com/79564088/203026173-85214ff5-4440-4c89-8cd2-005db0d08551.PNG)
+
+
+### title number of votes above 8.0 rating
+
+![titlevotes](https://user-images.githubusercontent.com/79564088/203025905-4f8c7d57-0ebf-4b94-a26e-2f0ae727b930.PNG)
+
 ## Conclution
 * Interception is the highest watched movie and was acted on 2010
 * Bohemian Rhapsody is the highest selling movie internationaly
@@ -36,6 +44,17 @@ Before analyzing the data had to be processed and cleaned. The data was checked 
 * The best genre of movie that is liked by a alot of people in general is an  action, adventure, scifi movie
 * Action, thriller genres are highly watched movies 
 * Biography, Drama, Music is the most selling genre internationally
+
+## 8. Recommendation
+I would recommend that the managers should produce movies that relate with  combination of:
+ 
+* The studio should Adventure, animation, comedy movies , action, thriller movies and biography, drama and music genres for foreign countries because the have the highest selling rates in foreign countries
+*  Action, adventure scifi movies has the highest number of people watching it locally and and in foreign countries thus should be given a priority 
+* Adventure,drama,scifi movies, action thriller and western drama are the highest watched genres 
+
+
+
+
 
 ## Repository Guide
 CSV Files:
