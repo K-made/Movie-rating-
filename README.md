@@ -56,24 +56,17 @@ I would recommend that the managers should produce movies that relate with  comb
 
 
 
+
 ## Repository Guide
 CSV Files:
-The raw data files which obtained by DataDriven can be found ;
-
-https://github.com/K-made/phase1/blob/main/bom.movie_gross.csv
+The data set used can be found [here](https://github.com/K-made/phase1/blob/main/bom.movie_gross.csv)
 
 sql Files:
-The raw data files which obtained by DataDriven can be found ;
+The data set used can be found [here](https://github.com/K-made/phase1/blob/main/im.db.zip)
 
-https://github.com/K-made/phase1/blob/main/im.db.zip
+Notebooks: The notebook can be found [here](https://github.com/K-made/phase1/blob/main/student.ipynb)
 
-Notebooks:
+Presentation: The Presentation can be found [here](https://github.com/K-made/phase1/blob/main/bfsdf.pdf)
 
-https://github.com/K-made/phase1/blob/main/student.ipynb
 
-Presentation:
-
-Presentation can be found from here in .pdf format :
-
-https://github.com/K-made/phase1/blob/main/bfsdf.pdf
 
